@@ -1,4 +1,4 @@
-# Diseñar un algoritmo tal que dados como datos dos variables de tipo entero, obtenga el resultado de la siguiente función
+# 9. Diseñar un algoritmo tal que dados como datos dos variables de tipo entero, obtenga el resultado de la siguiente función
 class Resultado:
     def __init__(self):
         pass
